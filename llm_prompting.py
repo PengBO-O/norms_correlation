@@ -5,7 +5,7 @@ import torch
 from transformers import pipeline
 
 MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct"
-ACCESS_TOKEN = "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"
+ACCESS_TOKEN = "token"
 
 def extract_numbers(string):
     pattern = r'-?\d+(?:\.\d+)?'
