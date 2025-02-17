@@ -1,0 +1,16 @@
+{"model": "BERT", "language": "EN", "max_dim": "Shape", "max_value": 0.818, "min_dim": "Number", "min_value": 0.365}
+{"model": "BERT", "language": "ZH", "max_dim": "Pattern", "max_value": 0.635, "min_dim": "Low", "min_value": 0.121}
+{"model": "GPT2", "language": "EN", "max_dim": "Shape", "max_value": 0.802, "min_dim": "Dark", "min_value": 0.316}
+{"model": "GPT2", "language": "ZH", "max_dim": "Shape", "max_value": 0.605, "min_dim": "Away", "min_value": 0.168}
+{"model": "Llama", "language": "EN", "max_dim": "Social", "max_value": 0.694, "min_dim": "Toward", "min_value": 0.063}
+{"model": "Llama", "language": "ZH", "max_dim": "Shape", "max_value": 0.51, "min_dim": "Scene", "min_value": -0.033}
+{"model": "QWen", "language": "EN", "max_dim": "Human", "max_value": 0.781, "min_dim": "Pattern", "min_value": 0.126}
+{"model": "QWen", "language": "ZH", "max_dim": "Social", "max_value": 0.712, "min_dim": "Away", "min_value": 0.035}
+{"model": "mBERT", "language": "EN2ZH", "max_dim": "Shape", "max_value": 0.536, "min_dim": "Surprised", "min_value": 0.023}
+{"model": "mBERT", "language": "ZH", "max_dim": "Shape", "max_value": 0.641, "min_dim": "Low", "min_value": 0.157}
+{"model": "mBERT", "language": "ZH2EN", "max_dim": "Biomotion", "max_value": 0.599, "min_dim": "Away", "min_value": -0.121}
+{"model": "mBERT", "language": "EN", "max_dim": "Shape", "max_value": 0.761, "min_dim": "Dark", "min_value": 0.262}
+{"model": "mGPT", "language": "EN2ZH", "max_dim": "Consequential", "max_value": 0.568, "min_dim": "Surprised", "min_value": -0.09}
+{"model": "mGPT", "language": "ZH", "max_dim": "Pattern", "max_value": 0.613, "min_dim": "Low", "min_value": 0.062}
+{"model": "mGPT", "language": "ZH2EN", "max_dim": "Human", "max_value": 0.45, "min_dim": "Surprised", "min_value": -0.108}
+{"model": "mGPT", "language": "EN", "max_dim": "Shape", "max_value": 0.654, "min_dim": "Dark", "min_value": 0.23}
