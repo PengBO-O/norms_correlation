@@ -55,7 +55,7 @@ def main():
     for file in os.listdir("./results/xlingual_pos_analysis"):
         if file.endswith(".json"):
             model_name, language = file.split(".")[0].split("_")
-            with open(os.path.join("./results/xlingual_pos_analysis", file), "r") as f:
+            with open(os.path.join("./results/xlingual_analysis/pos-level", file), "r") as f:
                 data = json.load(f)
                 df = pd.DataFrame.from_dict({(i, j): data[i][j] 
                              for i in data.keys() 
